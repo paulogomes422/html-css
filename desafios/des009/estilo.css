@@ -1,0 +1,14 @@
+body {
+  background-color: black;
+  color: #ffffff;
+  text-align: center;
+  margin: 0 auto;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  color: #ffffff;
+}
